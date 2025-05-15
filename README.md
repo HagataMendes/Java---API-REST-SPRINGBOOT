@@ -7,7 +7,7 @@ criar uma API RESTful com Spring Boot.
 - Validações
 - Paginação e ordenação
 
-## Principais Técnologias
+## Principais Técnologias  :pushpin:
 Spring Boot 3
 Java 17
 Lombok
@@ -23,5 +23,8 @@ Insomnia
 - Será um aplicativo com algumas opções, em que a pessoa que for usar pode fazer o CRUD, tanto de médicos quanto de pacientes e o agendamento e cancelamento das consultas.
 
 # Projeto no Front End
-![Projeto](https://github.com/HagataMendes/Java---API-REST-SPRINGBOOT/blob/main/Frontend%20Java%201.png)   
-![Projeto](https://github.com/HagataMendes/Java---API-REST-SPRINGBOOT/blob/main/Java%20springboot%202.png)   
+
+  ![Projeto](https://github.com/HagataMendes/Java---API-REST-SPRINGBOOT/blob/main/Frontend%20Java%201.png)
+
+
+
