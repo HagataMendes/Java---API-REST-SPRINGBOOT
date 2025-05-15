@@ -8,13 +8,13 @@ criar uma API RESTful com Spring Boot.
 - Paginação e ordenação
 
 ## Principais Técnologias  :pushpin:
-Spring Boot 3
-Java 17
-Lombok
-My SQL/Flyway
-JPA/Hibernete
-Maven
-Insomnia
+- ` Spring Boot 3 `
+- ` Java 17 `
+- ` Lombok `
+- ` My SQL/Flyway `
+- ` JPA/Hibernete `
+- ` Maven `
+- ` Insomnia `
 
 # Projeto 
 
